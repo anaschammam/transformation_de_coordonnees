@@ -1,0 +1,2 @@
+N.B: 
+executer le script main.py pour ouvrir l'application
